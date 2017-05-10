@@ -1,8 +1,10 @@
 {
-  "name"                  :"Theme",
-  "description"           :"Basic theme plugin",
-  "namespace"             :"Theme",
-  "author"                :"FH",
+  "name"                  :"TribalanceTheme",
+  "version"               : "1.0.0",
+  "license"               : "GNU GPL",
+  "description"           :"Tribalance theme plugin",
+  "namespace"             :"TribalanceTheme",
+  "author"                :"Creova Studios GmbH",
   "keywords"              : ["theme", "Ceres", "template"],
   "type"                  :"theme",
   "require"               : [],
@@ -10,7 +12,7 @@
   "dataProviders"         :
   [
     {
-      "key"           :"Theme\\Containers\\ThemeContainer",
+      "key"           :"TribalanceTheme\\Containers\\TribalanceThemeContainer",
       "name"          :"Dark background",
       "description"   :"Change the background colour of the Ceres template"
     }
