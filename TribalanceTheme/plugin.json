@@ -1,5 +1,7 @@
 {
-  "name"                  :"Tribalance Theme",
+  "name"                  :"TribalanceTheme",
+  "version"               : "1.0.0",
+  "license"               : "GNU GPL",
   "description"           :"Tribalance theme plugin",
   "namespace"             :"TribalanceTheme",
   "author"                :"Creova Studios GmbH",
