@@ -1,18 +1,8 @@
 {
-  "name"                  :"Theme",
-  "description"           :"Basic theme plugin",
-  "namespace"             :"Theme",
-  "author"                :"FH",
-  "keywords"              : ["theme", "Ceres", "template"],
+  "name"                  :"TribalanceTheme",
+  "description"           :"Tribalance theme plugin",
+  "namespace"             :"TribalanceTheme",
+  "author"                :"Creova Studios GmbH",
   "type"                  :"theme",
-  "require"               : [],
-  "serviceProvider"       :"TribalanceTheme\\Providers\\TribalanceThemeServiceProvider",
-  "dataProviders"         :
-  [
-    {
-      "key"           :"Theme\\Containers\\ThemeContainer",
-      "name"          :"Dark background",
-      "description"   :"Change the background colour of the Ceres template"
-    }
-  ]
+  "serviceProvider"       :"TribalanceTheme\\Providers\\TribalanceThemeServiceProvider"
 }
