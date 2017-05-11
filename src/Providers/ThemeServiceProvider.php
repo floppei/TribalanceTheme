@@ -1,6 +1,6 @@
 <?php
 
-namespace Theme\Providers;
+namespace TBATheme\Providers;
 
 use Plenty\Plugin\ServiceProvider;
 
