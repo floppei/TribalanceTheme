@@ -4,7 +4,7 @@ namespace TBATheme\Providers;
 
 use Plenty\Plugin\ServiceProvider;
 
-class ThemeServiceProvider extends ServiceProvider
+class TBAThemeServiceProvider extends ServiceProvider
 {
 
     /**
