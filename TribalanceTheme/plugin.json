@@ -1,8 +1,0 @@
-{
-  "name"                  :"TribalanceTheme",
-  "description"           :"Tribalance theme plugin",
-  "namespace"             :"TribalanceTheme",
-  "author"                :"Creova Studios GmbH",
-  "type"                  :"template",
-  "serviceProvider"       :"TribalanceTheme\\Providers\\TribalanceThemeServiceProvider"
-}

@@ -1,17 +1,17 @@
 {
   "name"                  :"TBATheme",
-  "description"           :"Basic theme plugin",
+  "description"           :"Basic theme plugin for tribalance",
   "namespace"             :"TBATheme",
-  "author"                :"Your name",
+  "author"                :"Creova Studios GmbH",
   "keywords"              : ["theme", "Ceres", "template"],
   "type"                  :"theme",
   "require"               : [],
-  "serviceProvider"       :"TBATheme\\Providers\\ThemeServiceProvider",
+  "serviceProvider"       :"TBATheme\\Providers\\TBAThemeServiceProvider",
   "dataProviders"         :
   [
     {
-      "key"           :"TBATheme\\Containers\\ThemeContainer",
-      "name"          :"Dark background",
+      "key"           :"TBATheme\\Containers\\TBAThemeContainer",
+      "name"          :"Dark background for tba",
       "description"   :"Change the background colour of the Ceres template"
     }
   ]
